@@ -30,4 +30,4 @@ Analytics Portfolio
 - For existing medical professionals - understand how common stress is in their line of work and its effects in order to promote awareness so they may take care of themselves and seek necessary support
 - For aspiring medical professionals - understand stress and its effects in the field before choosing a career path
 
-
+![](/Images/Healthysleep.png)
