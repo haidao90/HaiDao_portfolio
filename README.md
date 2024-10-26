@@ -8,7 +8,7 @@ Analytics Portfolio
 -	Created an interaction interface for the business to input the data to get the best suggested product position
 
 # [Project 2: DATA CLEANING ON HOUSING MARKET DATASET](https://github.com/haidao90/PortfolioProjects/blob/main/Data%20cleaning.sql)
-- Data cleaning through various techniques such as standardizing, populating, spliting columns and removing duplicates and unused data
+- Ultilizaing SQL for data cleaning through various techniques such as standardizing, populating, spliting columns and removing duplicates and unused data
 
 # [Project 3: DATA EXPLORATION OF COVID DATASET](https://github.com/haidao90/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 - Import the dataset into SQL and explore Covid infected and vaccinated dataset
