@@ -22,6 +22,8 @@ Analytics Portfolio
 - Consulted with client to determine the best metrics to be displayed on final product
 - Utilized DAX and Excel to transform and process client data, ensuring its completeness and accuracy
 
+![](/Images/Screenshot%202024-10-26%20152106.png)
+
 # [Project 5: SLEEP HEALTH AND LIFESTYLE DASHBOARD](https://public.tableau.com/app/profile/hai.dao.duy/viz/Project-Hai/SleepHealthDashboard)
 - Utilizing SQL and pivot table in excel to explore and clean the data
 - Created a dashboard with Tableau to understand the relationships between health indicators and stress levels of medical professionals 
