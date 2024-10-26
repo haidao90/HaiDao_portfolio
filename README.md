@@ -17,3 +17,16 @@ Analytics Portfolio
 
 # [Project 3: DATA CLEANING ON HOUSING MARKET DATASET](https://github.com/haidao90/PortfolioProjects/blob/main/Data%20cleaning.sql)
 - Data cleaning through various techniques such as standardizing, populating, spliting columns and removing duplicates and unused data
+
+# [Project 4: SALES REPORT DASHBOARD OF VIETNAM POST](https://app.powerbi.com/view?r=eyJrIjoiMWUyOGY1MDktNDZlNy00YTk4LWE2ZmQtN2U4NDQ1ZDBjZGNlIiwidCI6IjQ1Y2NkZmNmLTQ5OTItNGE0ZC05ZTY5LWJhOWEwZTA5MWY3NyIsImMiOjN9)
+- Created a dashboard with Power Bi to assist sales director to observe and assess sales performance of every posts by month
+- Consulted with client to determine the best metrics to be displayed on final product
+- Utilized DAX and Excel to transform and process client data, ensuring its completeness and accuracy
+
+# [Project 5: SLEEP HEALTH AND LIFESTYLE DASHBOARD](https://public.tableau.com/app/profile/hai.dao.duy/viz/Project-Hai/SleepHealthDashboard)
+- Utilizing SQL and pivot table in excel to explore and clean the data
+- Created a dashboard with Tableau to understand the relationships between health indicators and stress levels of medical professionals 
+- For existing medical professionals - understand how common stress is in their line of work and its effects in order to promote awareness so they may take care of themselves and seek necessary support
+- For aspiring medical professionals - understand stress and its effects in the field before choosing a career path
+
+
