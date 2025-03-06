@@ -17,7 +17,7 @@ Analytics Portfolio
 
 ![](/Images/Dashboard-Covid.png)
 
-# [Project 4: SALES REPORT DASHBOARD OF VIETNAM POST](https://app.powerbi.com/view?r=eyJrIjoiMWUyOGY1MDktNDZlNy00YTk4LWE2ZmQtN2U4NDQ1ZDBjZGNlIiwidCI6IjQ1Y2NkZmNmLTQ5OTItNGE0ZC05ZTY5LWJhOWEwZTA5MWY3NyIsImMiOjN9)
+# [Project 4: SALES REPORT DASHBOARD OF VIETNAM POST](https://app.powerbi.com/view?r=eyJrIjoiMWI5N2VlZjgtOTRkYS00MDU3LWE4OTItYjQ2YWQzZjFlZDVjIiwidCI6IjQ1Y2NkZmNmLTQ5OTItNGE0ZC05ZTY5LWJhOWEwZTA5MWY3NyIsImMiOjN9)
 - Created a dashboard with Power Bi to assist sales director to observe and assess sales performance of every posts by month
 - Consulted with client to determine the best metrics to be displayed on final product
 - Utilized DAX and Excel to transform and process client data, ensuring its completeness and accuracy
