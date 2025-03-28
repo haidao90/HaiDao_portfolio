@@ -1,7 +1,7 @@
 # HaiDao_portfolio
 Analytics Portfolio
 
-# [Project 1: EXPLORE HOW THE INTRODUCTION OF STUDY ABROAD AS A CONCEPT WITHIN THE CLASSROOM HELPS TO SHAPE STUDENTS’ EXPECTATIONS OF A POTENTIAL STUDY ABROAD EXPERIENCE(https://drive.google.com/file/d/1tVkpWX30MfkAmmUZdsz_3--tgBGc6-3j/view?usp=sharing)
+# [Project 1: EXPLORE HOW THE INTRODUCTION OF STUDY ABROAD AS A CONCEPT WITHIN THE CLASSROOM HELPS TO SHAPE STUDENTS’ EXPECTATIONS OF A POTENTIAL STUDY ABROAD EXPERIENCE](https://drive.google.com/file/d/1tVkpWX30MfkAmmUZdsz_3--tgBGc6-3j/view?usp=sharing)
 - Conducted a paired sample t-test to determin whether the student's interest in increased after participation
 - Conducted thematic analysis to determine how the students' interest change after participation
 - Delivered findings with table, graphs and world cloud and presented on powerpoint
