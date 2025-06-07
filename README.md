@@ -2,7 +2,7 @@
 Analytics Portfolio
 
 # [Project 1: Explore how the introduction of study abroad as a concept helps to shape students’ expectations of a potential study abroad experience](https://drive.google.com/file/d/1tVkpWX30MfkAmmUZdsz_3--tgBGc6-3j/view?usp=sharing)
-- Conducted a paired sample t-test to determin whether the student's interest in increased after participation
+- Conducted a paired sample t-test to determining whether the student's interest in increased after participation
 - Conducted thematic analysis to determine how the students' interest change after participation
 - Delivered findings with table, graphs and world cloud and presented on powerpoint
 
