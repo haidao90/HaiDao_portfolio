@@ -1,7 +1,7 @@
 # HaiDao_portfolio
 Analytics Portfolio
 
-# [Project 1: Investigate reasons for Funeral Directors' Attrition within the field](https://app.powerbi.com/view?r=eyJrIjoiNmM4MGRlNjMtYWY1ZS00NDk2LWE4NWMtZjk5ZjVhNjlhNDkzIiwidCI6IjQ1Y2NkZmNmLTQ5OTItNGE0ZC05ZTY5LWJhOWEwZTA5MWY3NyIsImMiOjN9)
+# [Project 1: Investigate reasons for Funeral Directors' Attrition within the field](https://app.powerbi.com/view?r=eyJrIjoiZmUzZWFmMjYtNmUzMC00MDU4LWFlYmUtOWI0MjMxNTBjZjFhIiwidCI6IjQ1Y2NkZmNmLTQ5OTItNGE0ZC05ZTY5LWJhOWEwZTA5MWY3NyIsImMiOjN9)
 - Visualized with interactive dashboards with such metrics as ProQOL score, demographic variables and themes/sub-themes.
 - Conducted thematic analysis for more than 700 responses and 10 open-ended questions
 - Findings: Most participants asserted that the desire to help, support and care for families is what they enjoy the most about their job. Also, work environment plays a huge role to make them stay. On the other hand, work conditions is the main reason for them to leave their fields especially lack in compensation and work life balance.
