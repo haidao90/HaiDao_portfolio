@@ -10,6 +10,7 @@ Analytics Portfolio
 - Conducted a paired sample t-test to determining whether the student's interest in increased after participation.
 - Conducted thematic analysis to explore how the students' interest change after participation.
 - Delivered findings with table, graphs and world cloud then presented in powerpoint.
+- Findings: Participant interest in study abroad increased. Pre-survey data indicated cultural learning was the biggest motivation for participants considering participation in study abroad. Post-survey data indicated a rise in professional growth as a motivation for participation in study abroad. In the post-survey, when participants were asked what they found most helpful in shaping their understanding of study abroad, the completion of the pre-survey (for supporting self discovery) and classroom activities that explored cross cultural contexts were identified
 
 # [Project 3: Sales report dashboard of vietnam post](https://app.powerbi.com/view?r=eyJrIjoiZjA5NzRjMmEtMmNlNi00NWFlLWIzYjUtNzhjOTAyMTRjNzdhIiwidCI6IjQ1Y2NkZmNmLTQ5OTItNGE0ZC05ZTY5LWJhOWEwZTA5MWY3NyIsImMiOjN9)
 - Created a dashboard with Power Bi to assist sales director to track sales performance of every posts monthly.
